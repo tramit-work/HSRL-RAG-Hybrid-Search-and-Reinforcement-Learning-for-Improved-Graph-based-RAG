@@ -1,0 +1,5902 @@
+[
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Paracetamol"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pain reliever"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:1"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Paracetamol"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+          },
+          "relationship": {
+            "identity": 1152921504606846976,
+            "start": 0,
+            "end": 1,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:1152921504606846976",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:1"
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pain reliever"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:1"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Paracetamol"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fever reducer"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:2"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Paracetamol"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081858,
+            "start": 0,
+            "end": 2,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081858",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:2"
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fever reducer"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:2"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Paracetamol"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhibiting production of prostaglandins"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:3"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Paracetamol"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081859,
+            "start": 0,
+            "end": 3,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081859",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:3"
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhibiting production of prostaglandins"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:3"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Paracetamol"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+      },
+      "end": {
+        "identity": 4,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Liver damage"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:4"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Paracetamol"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081860,
+            "start": 0,
+            "end": 4,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081860",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:4"
+          },
+          "end": {
+            "identity": 4,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Liver damage"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:4"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Paracetamol"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+      },
+      "end": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Liver failure"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:5"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Paracetamol"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081861,
+            "start": 0,
+            "end": 5,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081861",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:5"
+          },
+          "end": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Liver failure"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:5"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Paracetamol"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+      },
+      "end": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pain and fever"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:6"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Paracetamol"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081862,
+            "start": 0,
+            "end": 6,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081862",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:6"
+          },
+          "end": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pain and fever"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:6"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Paracetamol"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Paracetamol"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081863,
+            "start": 0,
+            "end": 7,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081863",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Paracetamol"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+      },
+      "end": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Decolgen forte"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Paracetamol"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081864,
+            "start": 0,
+            "end": 8,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081864",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:0",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+          },
+          "end": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Decolgen forte"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 28,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ibuprofen"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081884,
+            "start": 7,
+            "end": 28,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081884",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28"
+          },
+          "end": {
+            "identity": 28,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ibuprofen"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 29,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neck pain"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:29"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081885,
+            "start": 7,
+            "end": 29,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081885",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:29"
+          },
+          "end": {
+            "identity": 29,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neck pain"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:29"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Shoulder pain"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:30"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081886,
+            "start": 7,
+            "end": 30,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081886",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:30"
+          },
+          "end": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Shoulder pain"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:30"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Back pain"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:31"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081887,
+            "start": 7,
+            "end": 31,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081887",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:31"
+          },
+          "end": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Back pain"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:31"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 32,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Muscle strain"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:32"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081888,
+            "start": 7,
+            "end": 32,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081888",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:32"
+          },
+          "end": {
+            "identity": 32,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Muscle strain"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:32"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Stiff neck"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:33"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081889,
+            "start": 7,
+            "end": 33,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081889",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:33"
+          },
+          "end": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Stiff neck"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:33"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 34,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Arthritis"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:34"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081890,
+            "start": 7,
+            "end": 34,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081890",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:34"
+          },
+          "end": {
+            "identity": 34,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Arthritis"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:34"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 35,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tendonitis"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:35"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081891,
+            "start": 7,
+            "end": 35,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081891",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:35"
+          },
+          "end": {
+            "identity": 35,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tendonitis"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:35"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 36,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Sprains"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:36"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081892,
+            "start": 7,
+            "end": 36,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081892",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:36"
+          },
+          "end": {
+            "identity": 36,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Sprains"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:36"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 37,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Headaches"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:37"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081893,
+            "start": 7,
+            "end": 37,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081893",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:37"
+          },
+          "end": {
+            "identity": 37,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Headaches"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:37"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 38,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Menstrual cramps"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:38"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081894,
+            "start": 7,
+            "end": 38,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081894",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:38"
+          },
+          "end": {
+            "identity": 38,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Menstrual cramps"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:38"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 39,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Toothaches"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:39"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081895,
+            "start": 7,
+            "end": 39,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081895",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:39"
+          },
+          "end": {
+            "identity": 39,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Toothaches"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:39"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 40,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pain after tooth extraction"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:40"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081896,
+            "start": 7,
+            "end": 40,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081896",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:40"
+          },
+          "end": {
+            "identity": 40,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pain after tooth extraction"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:40"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Minor surgery"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:41"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081897,
+            "start": 7,
+            "end": 41,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081897",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:41"
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Minor surgery"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:41"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 42,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Individuals with bronchospasm"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:42"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081898,
+            "start": 7,
+            "end": 42,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081898",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:42"
+          },
+          "end": {
+            "identity": 42,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Individuals with bronchospasm"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:42"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Individuals with peptic ulcers"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:43"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081899,
+            "start": 7,
+            "end": 43,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081899",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:43"
+          },
+          "end": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Individuals with peptic ulcers"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:43"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alaxan"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+      },
+      "end": {
+        "identity": 44,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Individuals with severe liver failure"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:44"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alaxan"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081900,
+            "start": 7,
+            "end": 44,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081900",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:7",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:44"
+          },
+          "end": {
+            "identity": 44,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Individuals with severe liver failure"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:44"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Decolgen forte"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+      },
+      "end": {
+        "identity": 51,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Phenylephrine hydrochloride"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:51"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Decolgen forte"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+          },
+          "relationship": {
+            "identity": 6917529027641081907,
+            "start": 8,
+            "end": 51,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081907",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:51"
+          },
+          "end": {
+            "identity": 51,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Phenylephrine hydrochloride"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:51"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Decolgen forte"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+      },
+      "end": {
+        "identity": 52,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Chlorpheniramine maleate"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:52"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Decolgen forte"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+          },
+          "relationship": {
+            "identity": 6917529027641081908,
+            "start": 8,
+            "end": 52,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081908",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:52"
+          },
+          "end": {
+            "identity": 52,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Chlorpheniramine maleate"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:52"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Decolgen forte"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+      },
+      "end": {
+        "identity": 53,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Common cold symptoms"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:53"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Decolgen forte"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+          },
+          "relationship": {
+            "identity": 6917529027641081909,
+            "start": 8,
+            "end": 53,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081909",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:53"
+          },
+          "end": {
+            "identity": 53,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Common cold symptoms"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:53"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Decolgen forte"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+      },
+      "end": {
+        "identity": 54,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Side effects"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:54"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Decolgen forte"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+          },
+          "relationship": {
+            "identity": 6917529027641081910,
+            "start": 8,
+            "end": 54,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081910",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:54"
+          },
+          "end": {
+            "identity": 54,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Side effects"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:54"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Decolgen forte"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+      },
+      "end": {
+        "identity": 55,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "By individuals with a history of liver disease"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:55"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Decolgen forte"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+          },
+          "relationship": {
+            "identity": 6917529027641081911,
+            "start": 8,
+            "end": 55,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081911",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:55"
+          },
+          "end": {
+            "identity": 55,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "By individuals with a history of liver disease"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:55"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Decolgen forte"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+      },
+      "end": {
+        "identity": 56,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "By individuals with cardiovascular conditions"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:56"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Decolgen forte"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+          },
+          "relationship": {
+            "identity": 6917529027641081912,
+            "start": 8,
+            "end": 56,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081912",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:56"
+          },
+          "end": {
+            "identity": 56,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "By individuals with cardiovascular conditions"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:56"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Decolgen forte"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+      },
+      "end": {
+        "identity": 57,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "By individuals with high blood pressure"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:57"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Decolgen forte"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+          },
+          "relationship": {
+            "identity": 6917529027641081913,
+            "start": 8,
+            "end": 57,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081913",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:57"
+          },
+          "end": {
+            "identity": 57,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "By individuals with high blood pressure"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:57"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Decolgen forte"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+      },
+      "end": {
+        "identity": 58,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "By individuals currently taking other medications"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:58"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Decolgen forte"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+          },
+          "relationship": {
+            "identity": 6917529027641081914,
+            "start": 8,
+            "end": 58,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081914",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:58"
+          },
+          "end": {
+            "identity": 58,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "By individuals currently taking other medications"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:58"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Decolgen forte"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+      },
+      "end": {
+        "identity": 59,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "For children under 12"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:59"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Decolgen forte"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+          },
+          "relationship": {
+            "identity": 6917529027641081915,
+            "start": 8,
+            "end": 59,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081915",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:59"
+          },
+          "end": {
+            "identity": 59,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "For children under 12"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:59"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Decolgen forte"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+      },
+      "end": {
+        "identity": 60,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Avoid taking with other medications that contain paracetamol to prevent overdose"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:60"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Decolgen forte"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+          },
+          "relationship": {
+            "identity": 6917529027641081916,
+            "start": 8,
+            "end": 60,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081916",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:60"
+          },
+          "end": {
+            "identity": 60,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Avoid taking with other medications that contain paracetamol to prevent overdose"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:60"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Decolgen forte"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+      },
+      "end": {
+        "identity": 61,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "You should avoid driving or operating machinery while taking the medication"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:61"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Decolgen forte"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+          },
+          "relationship": {
+            "identity": 6917529027641081917,
+            "start": 8,
+            "end": 61,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081917",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:61"
+          },
+          "end": {
+            "identity": 61,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "You should avoid driving or operating machinery while taking the medication"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:61"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Decolgen forte"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+      },
+      "end": {
+        "identity": 62,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "As alcohol can increase the risk of liver damage when taken with paracetamol"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:62"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Decolgen forte"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8"
+          },
+          "relationship": {
+            "identity": 6917529027641081918,
+            "start": 8,
+            "end": 62,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081918",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:8",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:62"
+          },
+          "end": {
+            "identity": 62,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "As alcohol can increase the risk of liver damage when taken with paracetamol"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:62"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 9,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alice"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:9"
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mother of"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:10"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 9,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alice"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:9"
+          },
+          "relationship": {
+            "identity": 1152921504606846985,
+            "start": 9,
+            "end": 10,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:1152921504606846985",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:9",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:10"
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mother of"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:10"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 9,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alice"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:9"
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Parent of"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:11"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 9,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alice"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:9"
+          },
+          "relationship": {
+            "identity": 6917529027641081867,
+            "start": 9,
+            "end": 11,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081867",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:9",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:11"
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Parent of"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:11"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 9,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alice"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:9"
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Relationship of motherhood with"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:12"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 9,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alice"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:9"
+          },
+          "relationship": {
+            "identity": 6917529027641081868,
+            "start": 9,
+            "end": 12,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081868",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:9",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:12"
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Relationship of motherhood with"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:12"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Bob"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:13"
+      },
+      "end": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Son of"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:14"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Bob"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:13"
+          },
+          "relationship": {
+            "identity": 1152921504606846989,
+            "start": 13,
+            "end": 14,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:1152921504606846989",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:13",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:14"
+          },
+          "end": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Son of"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:14"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Bob"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:13"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Child of"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:15"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Bob"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081871,
+            "start": 13,
+            "end": 15,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081871",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:13",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:15"
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Child of"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:15"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Bob"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:13"
+      },
+      "end": {
+        "identity": 16,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Relationship of sonship with"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:16"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Bob"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081872,
+            "start": 13,
+            "end": 16,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081872",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:13",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:16"
+          },
+          "end": {
+            "identity": 16,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Relationship of sonship with"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:16"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Philz"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17"
+      },
+      "end": {
+        "identity": 18,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Type of"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:18"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Philz"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17"
+          },
+          "relationship": {
+            "identity": 1152921504606846993,
+            "start": 17,
+            "end": 18,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:1152921504606846993",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:18"
+          },
+          "end": {
+            "identity": 18,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Type of"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:18"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Philz"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17"
+      },
+      "end": {
+        "identity": 19,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Establishment"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:19"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Philz"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081875,
+            "start": 17,
+            "end": 19,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081875",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:19"
+          },
+          "end": {
+            "identity": 19,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Establishment"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:19"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Philz"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17"
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Business"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:20"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Philz"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081876,
+            "start": 17,
+            "end": 20,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081876",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:20"
+          },
+          "end": {
+            "identity": 20,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Business"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:20"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Philz"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17"
+      },
+      "end": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Organization"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:21"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Philz"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081877,
+            "start": 17,
+            "end": 21,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081877",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:21"
+          },
+          "end": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Organization"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:21"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Philz"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17"
+      },
+      "end": {
+        "identity": 22,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Entity"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:22"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Philz"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081878,
+            "start": 17,
+            "end": 22,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081878",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:22"
+          },
+          "end": {
+            "identity": 22,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Entity"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:22"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Philz"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17"
+      },
+      "end": {
+        "identity": 23,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Founded in"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:23"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Philz"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081879,
+            "start": 17,
+            "end": 23,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081879",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:17",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:23"
+          },
+          "end": {
+            "identity": 23,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Founded in"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:23"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 24,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Berkeley"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:24"
+      },
+      "end": {
+        "identity": 25,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Location of"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:25"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 24,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Berkeley"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:24"
+          },
+          "relationship": {
+            "identity": 1152921504606847000,
+            "start": 24,
+            "end": 25,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:1152921504606847000",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:24",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:25"
+          },
+          "end": {
+            "identity": 25,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Location of"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:25"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 26,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "1982"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:26"
+      },
+      "end": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Year of"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:27"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 26,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "1982"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:26"
+          },
+          "relationship": {
+            "identity": 1152921504606847002,
+            "start": 26,
+            "end": 27,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:1152921504606847002",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:26",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:27"
+          },
+          "end": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Year of"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:27"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ibuprofen"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28"
+      },
+      "end": {
+        "identity": 45,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Analgesic effect"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:45"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 28,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ibuprofen"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28"
+          },
+          "relationship": {
+            "identity": 6917529027641081901,
+            "start": 28,
+            "end": 45,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081901",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:45"
+          },
+          "end": {
+            "identity": 45,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Analgesic effect"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:45"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ibuprofen"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28"
+      },
+      "end": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Antipyretic effect"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:46"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 28,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ibuprofen"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28"
+          },
+          "relationship": {
+            "identity": 6917529027641081902,
+            "start": 28,
+            "end": 46,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081902",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:46"
+          },
+          "end": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Antipyretic effect"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:46"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ibuprofen"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28"
+      },
+      "end": {
+        "identity": 47,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Anti-inflammatory effect"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:47"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 28,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ibuprofen"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28"
+          },
+          "relationship": {
+            "identity": 6917529027641081903,
+            "start": 28,
+            "end": 47,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081903",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:47"
+          },
+          "end": {
+            "identity": 47,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Anti-inflammatory effect"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:47"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ibuprofen"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28"
+      },
+      "end": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nausea"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:48"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 28,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ibuprofen"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28"
+          },
+          "relationship": {
+            "identity": 6917529027641081904,
+            "start": 28,
+            "end": 48,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081904",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:48"
+          },
+          "end": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nausea"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:48"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ibuprofen"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28"
+      },
+      "end": {
+        "identity": 49,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Indigestion"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:49"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 28,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ibuprofen"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28"
+          },
+          "relationship": {
+            "identity": 6917529027641081905,
+            "start": 28,
+            "end": 49,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081905",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:28",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:49"
+          },
+          "end": {
+            "identity": 49,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Indigestion"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:49"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nausea"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:48"
+      },
+      "end": {
+        "identity": 50,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Diclofenac"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:50"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nausea"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:48"
+          },
+          "relationship": {
+            "identity": 6917529027641081906,
+            "start": 48,
+            "end": 50,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081906",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:48",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:50"
+          },
+          "end": {
+            "identity": 50,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Diclofenac"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:50"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 49,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Indigestion"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:49"
+      },
+      "end": {
+        "identity": 50,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Diclofenac"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:50"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 49,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Indigestion"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:49"
+          },
+          "relationship": {
+            "identity": 1155173304420532273,
+            "start": 49,
+            "end": 50,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:1155173304420532273",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:49",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:50"
+          },
+          "end": {
+            "identity": 50,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Diclofenac"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:50"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 50,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Diclofenac"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:50"
+      },
+      "end": {
+        "identity": 77,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nonsteroidal anti-inflammatory drug"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:77"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 50,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Diclofenac"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:50"
+          },
+          "relationship": {
+            "identity": 6917529027641081933,
+            "start": 50,
+            "end": 77,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081933",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:50",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:77"
+          },
+          "end": {
+            "identity": 77,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nonsteroidal anti-inflammatory drug"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:77"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 50,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Diclofenac"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:50"
+      },
+      "end": {
+        "identity": 78,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhibiting cyclooxygenase"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:78"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 50,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Diclofenac"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:50"
+          },
+          "relationship": {
+            "identity": 6917529027641081934,
+            "start": 50,
+            "end": 78,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081934",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:50",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:78"
+          },
+          "end": {
+            "identity": 78,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhibiting cyclooxygenase"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:78"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 50,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Diclofenac"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:50"
+      },
+      "end": {
+        "identity": 79,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prostaglandins"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:79"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 50,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Diclofenac"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:50"
+          },
+          "relationship": {
+            "identity": 6917529027641081935,
+            "start": 50,
+            "end": 79,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081935",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:50",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:79"
+          },
+          "end": {
+            "identity": 79,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prostaglandins"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:79"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 51,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Phenylephrine hydrochloride"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:51"
+      },
+      "end": {
+        "identity": 63,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tiffy"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:63"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 51,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Phenylephrine hydrochloride"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:51"
+          },
+          "relationship": {
+            "identity": 6917529027641081919,
+            "start": 51,
+            "end": 63,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081919",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:51",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:63"
+          },
+          "end": {
+            "identity": 63,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tiffy"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:63"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 52,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Chlorpheniramine maleate"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:52"
+      },
+      "end": {
+        "identity": 63,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tiffy"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:63"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 52,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Chlorpheniramine maleate"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:52"
+          },
+          "relationship": {
+            "identity": 1155173304420532276,
+            "start": 52,
+            "end": 63,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:1155173304420532276",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:52",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:63"
+          },
+          "end": {
+            "identity": 63,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tiffy"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:63"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 63,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tiffy"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:63"
+      },
+      "end": {
+        "identity": 70,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Acetaminophen"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:70"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 63,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tiffy"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:63"
+          },
+          "relationship": {
+            "identity": 6917529027641081926,
+            "start": 63,
+            "end": 70,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081926",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:63",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:70"
+          },
+          "end": {
+            "identity": 70,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Acetaminophen"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:70"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 64,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Phenylephrine"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:64"
+      },
+      "end": {
+        "identity": 65,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Blood vessels in the nose"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:65"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 64,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Phenylephrine"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:64"
+          },
+          "relationship": {
+            "identity": 1152921504606847040,
+            "start": 64,
+            "end": 65,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:1152921504606847040",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:64",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:65"
+          },
+          "end": {
+            "identity": 65,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Blood vessels in the nose"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:65"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 64,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Phenylephrine"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:64"
+      },
+      "end": {
+        "identity": 66,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "High blood pressure"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:66"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 64,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Phenylephrine"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:64"
+          },
+          "relationship": {
+            "identity": 6917529027641081922,
+            "start": 64,
+            "end": 66,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081922",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:64",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:66"
+          },
+          "end": {
+            "identity": 66,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "High blood pressure"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:66"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 67,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Chlorpheniramine"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:67"
+      },
+      "end": {
+        "identity": 68,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Allergic symptoms"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:68"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 67,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Chlorpheniramine"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:67"
+          },
+          "relationship": {
+            "identity": 1152921504606847043,
+            "start": 67,
+            "end": 68,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:1152921504606847043",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:67",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:68"
+          },
+          "end": {
+            "identity": 68,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Allergic symptoms"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:68"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 67,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Chlorpheniramine"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:67"
+      },
+      "end": {
+        "identity": 69,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Drowsiness"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:69"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 67,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Chlorpheniramine"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:67"
+          },
+          "relationship": {
+            "identity": 6917529027641081925,
+            "start": 67,
+            "end": 69,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081925",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:67",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:69"
+          },
+          "end": {
+            "identity": 69,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Drowsiness"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:69"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 70,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Acetaminophen"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:70"
+      },
+      "end": {
+        "identity": 71,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhibiting pain signals"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:71"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 70,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Acetaminophen"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:70"
+          },
+          "relationship": {
+            "identity": 6917529027641081927,
+            "start": 70,
+            "end": 71,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081927",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:70",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:71"
+          },
+          "end": {
+            "identity": 71,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhibiting pain signals"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:71"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 70,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Acetaminophen"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:70"
+      },
+      "end": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Can lead to serious liver damage"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:72"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 70,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Acetaminophen"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:70"
+          },
+          "relationship": {
+            "identity": 6917529027641081928,
+            "start": 70,
+            "end": 72,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081928",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:70",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:72"
+          },
+          "end": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Can lead to serious liver damage"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:72"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 70,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Acetaminophen"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:70"
+      },
+      "end": {
+        "identity": 73,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Panadol extra"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:73"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 70,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Acetaminophen"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:70"
+          },
+          "relationship": {
+            "identity": 6917529027641081929,
+            "start": 70,
+            "end": 73,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081929",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:70",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:73"
+          },
+          "end": {
+            "identity": 73,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Panadol extra"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:73"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 73,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Panadol extra"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:73"
+      },
+      "end": {
+        "identity": 74,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Caffeine"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:74"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 73,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Panadol extra"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:73"
+          },
+          "relationship": {
+            "identity": 6917529027641081930,
+            "start": 73,
+            "end": 74,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081930",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:73",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:74"
+          },
+          "end": {
+            "identity": 74,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Caffeine"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:74"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 73,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Panadol extra"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:73"
+      },
+      "end": {
+        "identity": 75,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "1-2 tablets every 4 hours"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:75"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 73,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Panadol extra"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:73"
+          },
+          "relationship": {
+            "identity": 6917529027641081931,
+            "start": 73,
+            "end": 75,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081931",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:73",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:75"
+          },
+          "end": {
+            "identity": 75,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "1-2 tablets every 4 hours"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:75"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 74,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Caffeine"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:74"
+      },
+      "end": {
+        "identity": 76,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pain-relieving effects of acetaminophen"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:76"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 74,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Caffeine"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:74"
+          },
+          "relationship": {
+            "identity": 6917529027641081932,
+            "start": 74,
+            "end": 76,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081932",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:74",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:76"
+          },
+          "end": {
+            "identity": 76,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pain-relieving effects of acetaminophen"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:76"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 77,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nonsteroidal anti-inflammatory drug"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:77"
+      },
+      "end": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Aspirin"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 77,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nonsteroidal anti-inflammatory drug"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:77"
+          },
+          "relationship": {
+            "identity": 6917529027641081936,
+            "start": 77,
+            "end": 80,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081936",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:77",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+          },
+          "end": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Aspirin"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 77,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nonsteroidal anti-inflammatory drug"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:77"
+      },
+      "end": {
+        "identity": 81,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Meloxicam"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:81"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 77,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nonsteroidal anti-inflammatory drug"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:77"
+          },
+          "relationship": {
+            "identity": 6917529027641081937,
+            "start": 77,
+            "end": 81,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081937",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:77",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:81"
+          },
+          "end": {
+            "identity": 81,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Meloxicam"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:81"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 77,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nonsteroidal anti-inflammatory drug"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:77"
+      },
+      "end": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Celecoxib"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 77,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nonsteroidal anti-inflammatory drug"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:77"
+          },
+          "relationship": {
+            "identity": 6917529027641081938,
+            "start": 77,
+            "end": 82,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081938",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:77",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+          },
+          "end": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Celecoxib"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 78,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhibiting cyclooxygenase"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:78"
+      },
+      "end": {
+        "identity": 81,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Meloxicam"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:81"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 78,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhibiting cyclooxygenase"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:78"
+          },
+          "relationship": {
+            "identity": 1155173304420532302,
+            "start": 78,
+            "end": 81,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:1155173304420532302",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:78",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:81"
+          },
+          "end": {
+            "identity": 81,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Meloxicam"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:81"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Aspirin"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+      },
+      "end": {
+        "identity": 83,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mild to moderate pain"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:83"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Aspirin"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081939,
+            "start": 80,
+            "end": 83,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081939",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:83"
+          },
+          "end": {
+            "identity": 83,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mild to moderate pain"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:83"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Aspirin"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+      },
+      "end": {
+        "identity": 84,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fever reduction"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:84"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Aspirin"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081940,
+            "start": 80,
+            "end": 84,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081940",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:84"
+          },
+          "end": {
+            "identity": 84,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fever reduction"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:84"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Aspirin"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+      },
+      "end": {
+        "identity": 85,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fever"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:85"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Aspirin"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081941,
+            "start": 80,
+            "end": 85,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081941",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:85"
+          },
+          "end": {
+            "identity": 85,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fever"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:85"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Aspirin"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+      },
+      "end": {
+        "identity": 86,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Lower the risk of heart attacks and strokes caused by blood clots"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:86"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Aspirin"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081942,
+            "start": 80,
+            "end": 86,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081942",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:86"
+          },
+          "end": {
+            "identity": 86,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Lower the risk of heart attacks and strokes caused by blood clots"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:86"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Aspirin"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+      },
+      "end": {
+        "identity": 87,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Serious side effects"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:87"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Aspirin"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081943,
+            "start": 80,
+            "end": 87,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081943",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:87"
+          },
+          "end": {
+            "identity": 87,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Serious side effects"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:87"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Aspirin"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+      },
+      "end": {
+        "identity": 88,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gastrointestinal bleeding"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:88"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Aspirin"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081944,
+            "start": 80,
+            "end": 88,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081944",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:88"
+          },
+          "end": {
+            "identity": 88,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gastrointestinal bleeding"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:88"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Aspirin"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+      },
+      "end": {
+        "identity": 89,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Children and teenagers recovering from chickenpox or the flu"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:89"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Aspirin"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081945,
+            "start": 80,
+            "end": 89,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081945",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:89"
+          },
+          "end": {
+            "identity": 89,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Children and teenagers recovering from chickenpox or the flu"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:89"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Aspirin"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+      },
+      "end": {
+        "identity": 90,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "A healthcare professional based on individual health conditions"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:90"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Aspirin"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081946,
+            "start": 80,
+            "end": 90,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081946",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:90"
+          },
+          "end": {
+            "identity": 90,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "A healthcare professional based on individual health conditions"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:90"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Aspirin"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+      },
+      "end": {
+        "identity": 91,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pregnant women unless prescribed by a doctor"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:91"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Aspirin"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081947,
+            "start": 80,
+            "end": 91,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081947",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:91"
+          },
+          "end": {
+            "identity": 91,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pregnant women unless prescribed by a doctor"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:91"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Aspirin"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+      },
+      "end": {
+        "identity": 92,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Minimize stomach irritation"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:92"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Aspirin"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081948,
+            "start": 80,
+            "end": 92,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081948",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:92"
+          },
+          "end": {
+            "identity": 92,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Minimize stomach irritation"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:92"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Aspirin"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+      },
+      "end": {
+        "identity": 93,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Limited or avoided during treatment"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:93"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Aspirin"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081949,
+            "start": 80,
+            "end": 93,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081949",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:80",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:93"
+          },
+          "end": {
+            "identity": 93,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Limited or avoided during treatment"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:93"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 81,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Meloxicam"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:81"
+      },
+      "end": {
+        "identity": 94,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Osteoarthritis"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:94"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 81,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Meloxicam"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:81"
+          },
+          "relationship": {
+            "identity": 6917529027641081950,
+            "start": 81,
+            "end": 94,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081950",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:81",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:94"
+          },
+          "end": {
+            "identity": 94,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Osteoarthritis"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:94"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 81,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Meloxicam"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:81"
+      },
+      "end": {
+        "identity": 95,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Rheumatoid arthritis"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:95"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 81,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Meloxicam"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:81"
+          },
+          "relationship": {
+            "identity": 6917529027641081951,
+            "start": 81,
+            "end": 95,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081951",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:81",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:95"
+          },
+          "end": {
+            "identity": 95,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Rheumatoid arthritis"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:95"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 81,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Meloxicam"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:81"
+      },
+      "end": {
+        "identity": 96,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Juvenile idiopathic arthritis"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:96"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 81,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Meloxicam"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:81"
+          },
+          "relationship": {
+            "identity": 6917529027641081952,
+            "start": 81,
+            "end": 96,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081952",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:81",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:96"
+          },
+          "end": {
+            "identity": 96,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Juvenile idiopathic arthritis"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:96"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Celecoxib"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+      },
+      "end": {
+        "identity": 97,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cox-2 enzyme"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:97"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Celecoxib"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+          },
+          "relationship": {
+            "identity": 6917529027641081953,
+            "start": 82,
+            "end": 97,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081953",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:97"
+          },
+          "end": {
+            "identity": 97,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cox-2 enzyme"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:97"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Celecoxib"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+      },
+      "end": {
+        "identity": 98,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ankylosing spondylitis"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:98"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Celecoxib"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+          },
+          "relationship": {
+            "identity": 6917529027641081954,
+            "start": 82,
+            "end": 98,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081954",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:98"
+          },
+          "end": {
+            "identity": 98,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ankylosing spondylitis"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:98"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Celecoxib"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+      },
+      "end": {
+        "identity": 99,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dysmenorrhea"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:99"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Celecoxib"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+          },
+          "relationship": {
+            "identity": 6917529027641081955,
+            "start": 82,
+            "end": 99,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081955",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:99"
+          },
+          "end": {
+            "identity": 99,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dysmenorrhea"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:99"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Celecoxib"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+      },
+      "end": {
+        "identity": 100,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Acute pain in adults"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:100"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Celecoxib"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+          },
+          "relationship": {
+            "identity": 6917529027641081956,
+            "start": 82,
+            "end": 100,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081956",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:100"
+          },
+          "end": {
+            "identity": 100,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Acute pain in adults"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:100"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Celecoxib"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+      },
+      "end": {
+        "identity": 101,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Juvenile idiopathic arthritis in children aged 2 years and older"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:101"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Celecoxib"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+          },
+          "relationship": {
+            "identity": 6917529027641081957,
+            "start": 82,
+            "end": 101,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081957",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:101"
+          },
+          "end": {
+            "identity": 101,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Juvenile idiopathic arthritis in children aged 2 years and older"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:101"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Celecoxib"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+      },
+      "end": {
+        "identity": 102,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Stomach pain"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:102"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Celecoxib"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+          },
+          "relationship": {
+            "identity": 6917529027641081958,
+            "start": 82,
+            "end": 102,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:6917529027641081958",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:102"
+          },
+          "end": {
+            "identity": 102,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Stomach pain"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:102"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 94,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Osteoarthritis"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:94"
+      },
+      "end": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Celecoxib"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 94,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Osteoarthritis"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:94"
+          },
+          "relationship": {
+            "identity": 1155173304420532318,
+            "start": 94,
+            "end": 82,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:1155173304420532318",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:94",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+          },
+          "end": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Celecoxib"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 95,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Rheumatoid arthritis"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:95"
+      },
+      "end": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Celecoxib"
+        },
+        "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 95,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Rheumatoid arthritis"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:95"
+          },
+          "relationship": {
+            "identity": 1155173304420532319,
+            "start": 95,
+            "end": 82,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:e968366b-abd9-4247-90a8-aaa01973f98d:1155173304420532319",
+            "startNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:95",
+            "endNodeElementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+          },
+          "end": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Celecoxib"
+            },
+            "elementId": "4:e968366b-abd9-4247-90a8-aaa01973f98d:82"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]
