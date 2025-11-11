@@ -209,27 +209,18 @@ This project is licensed under the MIT License - see LICENSE
 
 1. Fork the repository
 
-2. Create a branch: git checkout -b feature/xxx
-
-3. Commit: git commit -m "Add xxx"
-
-4. Push & open a Pull Request
+2. Create a branch:
+```bash
+git checkout -b feature/xxx
+```
+4. Commit:
+```bash
+git commit -m "Add xxx"
+```
+6. Push & open a Pull Request
 
 Issues: GitHub Issues
 
-## Citation
-
-If you use this repository, please cite:
-```bash
-@article{phan2025hsrl,
-  title={HSRL-RAG: Combining Hybrid Search and Reinforcement Learning to Enhance the Accuracy of Graph-based Retrieval-Augmented Generation System},
-  author={Phan, Truong Ho-Viet and Nguyen, Tram Ngoc-Bao},
-  journal={PeerJ Computer Science},
-  year={2025},
-  doi={10.7717/peerj-cs.XXXX},
-  url={https://github.com/tramit-work/HSRL-RAG-Hybrid-Search-and-Reinforcement-Learning-for-Improved-Graph-based-RAG}
-}
-```
 ## Contact Information
 
 Truong Ho-Viet Phan – truong.phv@vlu.edu.vn
