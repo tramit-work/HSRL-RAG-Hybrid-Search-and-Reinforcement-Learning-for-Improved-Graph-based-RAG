@@ -179,7 +179,7 @@ We evaluate on two multi-hop QA benchmarks:
 | Model        | 2WikiMultihopQA | MuSiQue |
 |-------------|----------------|---------|
 | EfficientRAG | 51.64          | 21.18   |
-| HSRL-RAG     | **83.15**      | **81.38** |
+| HSRL-RAG     | **83.57**      | **72.46** |
 
 ### Generation (2WikiMultihopQA)
 
