@@ -20,7 +20,6 @@ to enhance reasoning and factual consistency in multi-hop question answering.
 Truong Ho-Viet Phan, Tram Ngoc-Bao Nguyen  
 *Van Lang University, Ho Chi Minh City, Vietnam*
 
-**Submitted to:** *PeerJ Computer Science (CS-2025:11:128338)*  
 
 **Repository:**  
 [https://github.com/tramit-work/HSRL-RAG-Hybrid-Search-and-Reinforcement-Learning-for-Improved-Graph-based-RAG](https://github.com/tramit-work/HSRL-RAG-Hybrid-Search-and-Reinforcement-Learning-for-Improved-Graph-based-RAG)
